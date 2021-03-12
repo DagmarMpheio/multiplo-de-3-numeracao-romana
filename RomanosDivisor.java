@@ -1,5 +1,3 @@
-package concurso;
-
 import java.util.Scanner;
 
 public class RomanosDivisor {
